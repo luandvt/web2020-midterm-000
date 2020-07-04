@@ -14,29 +14,21 @@
         <nav class="navbar navbar-expand-sm bg-primary navbar-dark" id="navbar">
             <ul class="navbar-nav">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Trang chủ</a>
+                    <a class="nav-link" href="../html/home.php">Trang chủ</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                       Thêm
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#">Thêm khoa</a>
-                        <a class="dropdown-item" href="#">Thêm sinh viên</a>
-                        <a class="dropdown-item" href="#">Thêm lớp</a>
-                        <a class="dropdown-item" href="#">Thêm môn học</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Something else here</a>
+                        <a class="dropdown-item" href="../html/addkhoa.php">Thêm khoa</a>
+                        <a class="dropdown-item" href="../html/addsv.php">Thêm sinh viên</a>
+                        <a class="dropdown-item" href="../html/addlop.php">Thêm lớp</a>
+                        <a class="dropdown-item" href="../html/addmonhoc.php">Thêm môn học</a>
                     </div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Link</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Link</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link disabled" href="#">Disabled</a>
+                    <a class="nav-link" href="../html/xemdiem.php">Xem điểm</a>
                 </li>
             </ul>
         </nav>
