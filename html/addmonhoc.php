@@ -21,7 +21,7 @@
     </div>
     <div class="form-group">
         <label for="sotc">Số tín chỉ:</label>
-        <input type="number" class="form-control" id="sotc" placeholder="Số lượng tín chỉ">
+        <input type="number" class="form-control" id="sotc" max="10" min="1" placeholder="Số lượng tín chỉ">
     </div>
     <div id="button">
     <button type="submit" class="btn btn-primary">Thêm sinh viên</button>
