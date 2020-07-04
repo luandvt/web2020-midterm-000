@@ -1,3 +1,71 @@
 #homepage {
     padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#title {
+    color: chocolate;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+#menu-home {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#button-khoa {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+}
+
+#button-lop {
+    background-color: #4100f5;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+}
+
+#button-sinhvien {
+    background-color: #bd1f1f;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+}
+
+#button-monhoc {
+    background-color: #008064;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+}
+
+.linkitem {
+    color: white;
 }

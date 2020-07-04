@@ -27,8 +27,17 @@
                         <a class="dropdown-item" href="../html/addmonhoc.php">Thêm môn học</a>
                     </div>
                 </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      Môn học
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">Nhập điểm</a>
+                        <a class="dropdown-item" href="#">Xem điểm</a>
+                    </div>
+                </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="../html/xemdiem.php">Xem điểm</a>
+                    <a class="nav-link" href="../html/xemdiem.php">Xem điểm toàn bộ</a>
                 </li>
             </ul>
         </nav>
